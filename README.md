@@ -18,5 +18,5 @@
 </code></pre></div>
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="ls"><pre class="notranslate"><code class="notranslate">ls
 </code></pre></div>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="python ohbasic.py"><pre class="notranslate"><code class="notranslate">python3 termux-tool.py
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="python ohbasic.py"><pre class="notranslate"><code class="notranslate">python termux-tool.py
 </code></pre></div>
