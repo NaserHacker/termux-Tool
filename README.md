@@ -20,12 +20,3 @@
 </code></pre></div>
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="python ohbasic.py"><pre class="notranslate"><code class="notranslate">python termux-tool.py
 </code></pre></div>
-
-<li>Download Any Media to your Device from Victims Device</li>
-<li>Get all the system information of Victim Device</li>
-<li>Retrieve the List of Installed Applications</li>
-<li>Retrive SMS</li>
-<li>Retrive Call Logs</li>
-<li>Retrive Contacts</li>
-<li>Send SMS</li>
-<li>Gets all the Notifications</li>
